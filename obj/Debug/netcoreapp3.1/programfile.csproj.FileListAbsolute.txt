@@ -1,0 +1,13 @@
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.exe
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.deps.json
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.runtimeconfig.json
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.runtimeconfig.dev.json
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.dll
+C:\Users\RAHUL\source\repos\programfile\programfile\bin\Debug\netcoreapp3.1\programfile.pdb
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.csproj.AssemblyReference.cache
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.AssemblyInfoInputs.cache
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.AssemblyInfo.cs
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.dll
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.pdb
+C:\Users\RAHUL\source\repos\programfile\programfile\obj\Debug\netcoreapp3.1\programfile.genruntimeconfig.cache
